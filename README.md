@@ -36,7 +36,9 @@ In current situation, Little Lemon has no reservation online system.  The featur
 
 
 ## Demo
-Uploading canvas-demo.mp4…
+https://github.com/itzKv/Little-Lemon-App/assets/116947826/cd14e2a6-7501-44e3-a06f-55723a8f44db
+
+
 
 
 
